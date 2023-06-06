@@ -1,0 +1,46 @@
+.nav {
+    color: #f1f2f5;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #fff;
+ 
+}
+
+.nav-title {
+    font-size: 60px;
+    border-radius: 10px;
+}
+
+.item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.title {
+    background-color: rgba(73, 73, 73, 0.333);
+    border-bottom: 1px solid white;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.title:hover {
+    background-color: rgba(164, 159, 159, 0.333);
+
+}
+
+.body {
+    background-color: rgb(39, 39, 39);
+    font-size:30px;
+}
+.logout{
+    background-color: rgb(43, 43, 87);
+}
+.logout:hover{
+    background-color: white;
+    color:black;
+    cursor:pointer;
+    border-radius: 5px;
+}
+ 
